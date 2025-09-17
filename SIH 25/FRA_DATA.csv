@@ -1,0 +1,55 @@
+Village_Name,District,Latitude,Longitude,FRA_Claims_Count,Ponds_Count,Farms_Count,Forest_Area_Hectares,Tribal_Population_Percentage,DSS_Recommendation
+Village_1,Malkangiri,18.382829,81.916978,40,3,38,250,67%,No major schemes required
+Village_2,Malkangiri,18.253975,82.2039,43,10,39,39,76%,DAJGUA Scheme: Community Well Drilling
+Village_3,Kandhamal,19.708021,83.273942,1,4,7,396,77%,No major schemes required
+Village_4,Malkangiri,18.415336,81.681018,31,2,47,288,85%,Jal Jeevan Mission: New Pond Construction
+Village_5,Malkangiri,18.337801,82.269685,8,2,22,32,74%,Jal Jeevan Mission: New Pond Construction
+Village_6,Koraput,18.813024,82.991749,24,6,29,339,51%,No major schemes required
+Village_7,Malkangiri,18.286397,82.008649,15,8,11,421,32%,No major schemes required
+Village_8,Koraput,18.8894,82.905985,18,7,30,221,79%,No major schemes required
+Village_9,Malkangiri,18.246686,82.4376,10,4,43,492,37%,No major schemes required
+Village_10,Kandhamal,19.973362,83.451286,8,0,9,361,53%,No major schemes required
+Village_11,Kandhamal,19.588839,83.057681,10,9,8,330,86%,No major schemes required
+Village_12,Malkangiri,18.682024,81.85934,28,10,35,174,38%,No major schemes required
+Village_13,Koraput,18.537114,83.318218,23,1,11,88,72%,No major schemes required
+Village_14,Koraput,19.113735,83.201648,7,6,7,462,42%,No major schemes required
+Village_15,Koraput,18.709814,83.297248,47,6,32,68,82%,DAJGUA Scheme: Community Well Drilling
+Village_16,Koraput,18.877731,83.28196,19,2,24,237,74%,Jal Jeevan Mission: New Pond Construction
+Village_17,Koraput,18.574469,82.544971,23,0,33,399,53%,Jal Jeevan Mission: New Pond Construction
+Village_18,Koraput,18.837236,82.920342,42,0,48,75,40%,Jal Jeevan Mission: New Pond Construction
+Village_19,Kandhamal,19.71906,83.934482,14,2,35,270,36%,Jal Jeevan Mission: New Pond Construction
+Village_20,Malkangiri,18.054214,82.444678,31,7,47,30,34%,No major schemes required
+Village_21,Kandhamal,19.802622,83.04574,8,3,34,149,65%,No major schemes required
+Village_22,Kandhamal,19.98855,83.698882,1,9,26,227,71%,No major schemes required
+Village_23,Koraput,18.897571,83.407913,49,7,31,445,48%,No major schemes required
+Village_24,Kandhamal,19.46186,83.793882,9,5,8,246,46%,No major schemes required
+Village_25,Koraput,18.730726,83.323785,49,8,36,291,38%,No major schemes required
+Village_26,Koraput,18.603308,82.657652,41,9,27,133,48%,No major schemes required
+Village_27,Kandhamal,19.835134,83.60616,12,1,21,327,56%,Jal Jeevan Mission: New Pond Construction
+Village_28,Kandhamal,19.831881,83.067814,24,0,23,167,57%,Jal Jeevan Mission: New Pond Construction
+Village_29,Kandhamal,19.622335,83.024074,20,9,36,94,52%,No major schemes required
+Village_30,Malkangiri,18.059734,82.168964,16,2,36,301,51%,Jal Jeevan Mission: New Pond Construction
+Village_31,Kandhamal,19.640197,83.121485,38,4,44,332,68%,No major schemes required
+Village_32,Koraput,18.547897,83.452127,29,6,46,267,31%,No major schemes required
+Village_33,Kandhamal,19.770171,83.392197,5,7,8,101,46%,No major schemes required
+Village_34,Kandhamal,19.887822,83.300454,7,7,21,348,59%,No major schemes required
+Village_35,Kandhamal,19.686031,83.792189,2,6,9,365,51%,No major schemes required
+Village_36,Kandhamal,19.507616,83.463875,49,10,37,486,65%,No major schemes required
+Village_37,Malkangiri,18.317151,82.404889,7,10,36,240,49%,No major schemes required
+Village_38,Koraput,18.767023,82.583696,27,8,15,277,70%,No major schemes required
+Village_39,Malkangiri,18.077762,82.484387,32,6,46,409,43%,No major schemes required
+Village_40,Koraput,19.018862,82.544355,8,3,14,110,87%,No major schemes required
+Village_41,Kandhamal,19.530143,83.325963,47,5,26,235,77%,DAJGUA Scheme: Community Well Drilling
+Village_42,Koraput,18.71533,83.216588,24,1,39,39,75%,Jal Jeevan Mission: New Pond Construction
+Village_43,Malkangiri,18.16441,82.035804,25,0,31,175,87%,Jal Jeevan Mission: New Pond Construction
+Village_44,Malkangiri,18.235638,81.634254,19,10,28,311,43%,No major schemes required
+Village_45,Kandhamal,19.999556,83.376337,24,10,50,250,81%,No major schemes required
+Village_46,Koraput,18.7616,83.014001,36,8,5,495,42%,No major schemes required
+Village_47,Kandhamal,19.863167,83.128745,29,10,14,205,78%,No major schemes required
+Village_48,Kandhamal,19.478031,83.870944,34,7,16,415,45%,No major schemes required
+Village_49,Kandhamal,19.460579,83.599194,2,4,18,467,71%,No major schemes required
+Village_50,Malkangiri,18.620055,82.419212,40,9,11,156,46%,No major schemes required
+Village_51,Malkangiri,18.30097,82.156313,17,2,6,277,59%,No major schemes required
+Village_52,Malkangiri,18.239767,82.033887,35,6,23,297,83%,DAJGUA Scheme: Community Well Drilling
+Village_53,Koraput,18.715047,83.458887,45,1,6,388,89%,DAJGUA Scheme: Community Well Drilling
+Village_54,Kandhamal,19.57744,83.094293,15,6,38,62,89%,No major schemes required
